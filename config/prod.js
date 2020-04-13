@@ -6,5 +6,3 @@ module.exports = {
 };
 
 
-// mongodb+srv://timprod:FzpaomrDdrJ8KDxu@cluster0-llpkl.mongodb.net/test?retryWrites=true&w=majority
-
